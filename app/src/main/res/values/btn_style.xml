@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tanggal Pengerjaan : 19 April 2022 -->
+<!-- Nama : Christy Gunawan Simarmata   -->
+<!-- NIM : 10120806                     -->
+<!-- Kelas : IF5                        -->
+<resources>
+
+<style name="tombolhijau" parent="Widget.AppCompat.Button">
+    <item name="fontFamily">@font/worksanssemi</item>
+    <item name="android:textSize">14sp</item>
+    <item name="android:textAllCaps">false</item>
+    <item name="android:background">@drawable/btn</item>
+</style>
+
+</resources>

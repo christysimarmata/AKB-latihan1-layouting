@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tanggal Pengerjaan : 19 April 2022 -->
+<!-- Nama : Christy Gunawan Simarmata   -->
+<!-- NIM : 10120806                     -->
+<!-- Kelas : IF5                        -->
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="basic">#E6F6EC</color>
+    <color name="hijau">#069550</color>
+    <color name="netral">#424242</color>
+    <color name="biruteks">#0D47A1</color>
+    <color name="teksmini">#757575</color>
+    <color name="bg">#FAFAFA</color>
+    <color name="netralfont">#212121</color>
+    <color name="biruprimer">#0D47A1</color>
+
+    <color name="hijautua1">#008444</color>.
+    <color name="hijautua2">#069550</color>.
+    <color name="tombolhijau">#069550</color>
+    <color name="barhijau">#16A75C</color>.
+    <color name="abuabu">#151920</color>
+    <color name="hijaubulan">#006430</color>.
+    <color name="hijaunetral">#70CD94</color>.
+    <color name="hijaumuda1">#C3E9D0</color>.
+    <color name="hijaumuda2">#9BDBB3</color>.
+    <color name="hijau3">#069550</color>.
+    <color name="agakputih">#F5F5F5</color>.
+    <color name="hijau4">#1FB767</color>.
+</resources>
